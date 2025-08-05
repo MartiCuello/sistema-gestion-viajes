@@ -1,5 +1,8 @@
 # Sistema de Gestión de Viajeros y Vuelos ✈️
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+
 Proyecto desarrollado en Java para la materia **Algoritmos y Estructuras de Datos II** (marzo 2025), con foco en eficiencia algorítmica y diseño de estructuras de datos personalizadas.
 Este sistema simula una agencia de viajes, gestionando viajeros, ciudades, vuelos y consultas eficientes, cumpliendo con las restricciones de eficiencia solicitados.
 
